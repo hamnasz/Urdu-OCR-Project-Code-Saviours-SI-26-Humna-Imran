@@ -4,6 +4,41 @@ We ran baseline [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (wit
 on 5 preprocessed images from our dataset to establish a baseline and understand the gap our
 custom model needs to close.
 
+### Preview: Raw vs. Processed
+
+A couple of examples of what our preprocessing pipeline actually does — original photographed/scanned
+image on the left, cleaned-up binarised version (what Tesseract and our future model both see) on
+the right. These are the same two image types discussed below: a short single-line crop and a full
+page mixing text with an illustration.
+
+**Line crop (utrset_050)**
+
+| Raw | Processed |
+|---|---|
+| ![raw](SI26-Week1/data/raw/other/utrset_050.png) | ![processed](SI26-Week2/data/processed/utrset_050.png) |
+
+**Line crop (utrset_046)**
+
+| Raw | Processed |
+|---|---|
+| ![raw](SI26-Week1/data/raw/other/utrset_046.png) | ![processed](SI26-Week2/data/processed/utrset_046.png) |
+
+**Full page with story text (book_021)**
+
+| Raw | Processed |
+|---|---|
+| ![raw](SI26-Week1/data/raw/books/book_021.png) | ![processed](SI26-Week2/data/processed/book_021.png) |
+
+**Full page with illustration (newspaper_021)**
+
+| Raw | Processed |
+|---|---|
+| ![raw](SI26-Week1/data/raw/newspaper/newspaper_021.png) | ![processed](SI26-Week2/data/processed/newspaper_021.png) |
+
+> Note: these images live in `readme_images/` next to this README. If you move or rename this file,
+> bring that folder along with it (or update the relative paths above) so the previews don't break
+> on GitHub.
+
 ### Results
 
 | Image | Actual Urdu Text | Tesseract Output | What Went Wrong |
