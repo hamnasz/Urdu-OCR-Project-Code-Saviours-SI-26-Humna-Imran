@@ -15,30 +15,29 @@ page mixing text with an illustration.
 
 | Raw | Processed |
 |---|---|
-| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/other/utrset_050.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/utrset_050.png) |
+| ![raw](../SI26-Week1/data/raw/other/utrset_050.png) | ![processed](data/processed/utrset_050.png) |
 
 **Line crop (utrset_046)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/other/utrset_046.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/utrset_046.png) |
+| ![raw](../SI26-Week1/data/raw/other/utrset_046.png) | ![processed](data/processed/utrset_046.png) |
 
 **Full page with story text (book_021)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/books/book_021.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/book_021.png) |
+| ![raw](../SI26-Week1/data/raw/books/book_021.png) | ![processed](data/processed/book_021.png) |
 
 **Full page with illustration (newspaper_021)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/newspaper/newspaper_021.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/newspaper_021.png) |
+| ![raw](../SI26-Week1/data/raw/newspaper/newspaper_021.png) | ![processed](data/processed/newspaper_021.png) |
 
-> Note: these images live in `readme_images/` next to this README. If you move or rename this file,
-> bring that folder along with it (or update the relative paths above) so the previews don't break
-> on GitHub.
-
+> Note: raw images are pulled from `SI26-Week1/data/raw/...` (one level up, then into Week 1's
+> folder), and processed images are pulled from `data/processed/` right next to this README, since
+> that's where the notebook's `PROCESSED_DIR` saves them.
 ### Results
 
 | Image | Actual Urdu Text | Tesseract Output | What Went Wrong |
