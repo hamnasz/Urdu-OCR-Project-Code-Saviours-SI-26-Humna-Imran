@@ -15,25 +15,25 @@ page mixing text with an illustration.
 
 | Raw | Processed |
 |---|---|
-| ![raw](SI26-Week1/data/raw/other/utrset_050.png) | ![processed](SI26-Week2/data/processed/utrset_050.png) |
+| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/other/utrset_050.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/utrset_050.png) |
 
 **Line crop (utrset_046)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](SI26-Week1/data/raw/other/utrset_046.png) | ![processed](SI26-Week2/data/processed/utrset_046.png) |
+| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/other/utrset_046.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/utrset_046.png) |
 
 **Full page with story text (book_021)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](SI26-Week1/data/raw/books/book_021.png) | ![processed](SI26-Week2/data/processed/book_021.png) |
+| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/books/book_021.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/book_021.png) |
 
 **Full page with illustration (newspaper_021)**
 
 | Raw | Processed |
 |---|---|
-| ![raw](SI26-Week1/data/raw/newspaper/newspaper_021.png) | ![processed](SI26-Week2/data/processed/newspaper_021.png) |
+| ![raw](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week1/data/raw/newspaper/newspaper_021.png) | ![processed](Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran/SI26-Week2/data/processed/newspaper_021.png) |
 
 > Note: these images live in `readme_images/` next to this README. If you move or rename this file,
 > bring that folder along with it (or update the relative paths above) so the previews don't break
