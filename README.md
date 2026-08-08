@@ -5,6 +5,10 @@
 **Project:** Optical Character Recognition for Urdu (Nastaliq script) using a fine-tuned TrOCR transformer model
 **Repository:** [hamnasz/Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran](https://github.com/hamnasz/Urdu-OCR-Project-Code-Saviours-SI-26-Humna-Imran)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://urdu-ocr-project-code-saviours-si-26-humna-imran.streamlit.app/)
+
+**Live demo:** Try the deployed Streamlit app: https://urdu-ocr-project-code-saviours-si-26-humna-imran.streamlit.app/
+
 ---
 
 ## Overview
