@@ -14,7 +14,7 @@ st.set_page_config(page_title="Urdu OCR â€” Code Saviours SI-26", page_icon="ðŸ“
 #   api.create_repo("your-username/urdu-ocr-si26", repo_type="model")
 #   model.push_to_hub("your-username/urdu-ocr-si26")
 #   processor.push_to_hub("your-username/urdu-ocr-si26")
-MODEL_ID = "your-hf-username/urdu-ocr-si26"  # <-- replace after pushing to the Hub
+MODEL_ID = "hamnaheh/trocr-urdu-si26-week4"  # <-- replace after pushing to the Hub
 
 # Option B: if you'd rather load straight from a path inside your repo (requires
 # Git LFS for the model weights, since data/model isn't tracked by a plain git push),
