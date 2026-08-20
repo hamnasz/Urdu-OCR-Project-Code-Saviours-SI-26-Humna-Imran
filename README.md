@@ -381,5 +381,4 @@ For questions or feedback, please open an issue in this repository.
 
 ---
 
-*This README reflects the repository's committed state as of August 2026. Update the Results and
-Current Status sections once the Week 4 training run and Week 5 deployment placeholders are finalized.*
+*Built by: Humna Imran | Code Saviours SI-26 | 2026*
