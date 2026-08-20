@@ -277,7 +277,7 @@ streamlit run app.py
 ```
 
 Before running, set `MODEL_ID` at the top of `app.py` to the Hugging Face Hub repo the fine-tuned
-model was pushed to in Week 4 (e.g. `your-hf-username/urdu-ocr-si26`). The app opens at
+model was pushed to in Week 4 (e.g. `hamnaheh/urdu-ocr-si26`). The app opens at
 `http://localhost:8501`.
 
 ---
