@@ -40,7 +40,7 @@ There is no `data/` or model-weights folder here by design — the fine-tuned mo
 `app.py` currently points `MODEL_ID` at a placeholder:
 
 ```python
-MODEL_ID = "your-hf-username/urdu-ocr-si26"  # <-- replace after pushing to the Hub
+MODEL_ID = "hamnaheh/trocr-urdu-si26-week4"
 ```
 
 **This needs to be updated** once the Week 4 fine-tuning run finishes and the model is pushed to the Hub. Two options are documented inline in `app.py`:
